@@ -1,0 +1,18 @@
+{
+  "name": "rust-handson",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve": "webpack-dev-server"
+  },
+  "keywords": [],
+  "author": "dorayakikun <amakunai.dorayaki@gmaill.com> (https://medium.com/@dorayakikun)",
+  "license": "MIT",
+  "devDependencies": {
+    "html-webpack-plugin": "^3.2.0",
+    "webpack": "^4.27.1",
+    "webpack-cli": "^3.1.2",
+    "webpack-dev-server": "^3.1.10"
+  }
+}

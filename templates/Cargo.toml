@@ -1,5 +1,5 @@
 [package]
-name = "rust_handson"
+name = "rust-handson"
 version = "0.1.0"
 authors = ["Tomohide Takao <amakunai.dorayaki@gmail.com>"]
 edition = "2018"

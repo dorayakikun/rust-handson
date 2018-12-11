@@ -408,7 +408,7 @@ for i in 0..10 {
 ### 環境構築
 
 * 詳しく知りたい人は[コチラ](https://rustwasm.github.io/wasm-bindgen/)
-* とりあえず触ってみたい人は[コチラ]()
+* とりあえず触ってみたい人は[コチラ](https://github.com/dorayakikun/rust-handson/tree/master/templates)
 
 ---
 

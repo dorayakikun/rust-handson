@@ -338,7 +338,7 @@ println!("{}", &message);
 
 ---
 
-### loop文
+### loop式
 
 ```rust
 let mut count = 0;
@@ -355,7 +355,7 @@ loop {
 
 ----
 
-### while文
+### while式
 
 ```rust
 let mut count = 0;
@@ -369,7 +369,7 @@ while count < 10 {
 
 ---
 
-### for文
+### for式
 
 ```rust
 for i in 0..10 {

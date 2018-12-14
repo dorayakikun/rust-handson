@@ -251,7 +251,7 @@ fn say(message: &str) {
 ```
 
 * 返り値がUnit型の場合は、返り値の型宣言を省略できます
-* [デモ](https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=04f605e54e1f82e6c074413ece7a0bd9)
+* [デモ](https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=04f605e54e1f82e6c074413ece7a0bd9)
 
 ---
 
@@ -365,7 +365,7 @@ while count < 10 {
 }
 ```
 
-* [デモ](https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=b6a93fe0db7ff7ceaab6f3bb51ba3408)
+* [デモ](https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=b6a93fe0db7ff7ceaab6f3bb51ba3408)
 
 ---
 

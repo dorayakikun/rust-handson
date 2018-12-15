@@ -11,8 +11,7 @@
 $ rustup target add wasm32-unknown-unknown
 $ cargo install wasm-bindgen-cli
 $ cargo build --target wasm32-unknown-unknown
-$ wasm-bindgen target/wasm32-unknown-unknown/debug/rust_handson.wasm \
-  --out-dir .
+$ wasm-bindgen target/wasm32-unknown-unknown/debug/rust_handson.wasm --out-dir .
 $ npm i
 $ npm run serve
 ```

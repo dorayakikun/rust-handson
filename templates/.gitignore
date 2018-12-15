@@ -5,3 +5,4 @@ Cargo.lock
 rust_handson_bg.d.ts
 rust_handson_bg.wasm
 rust_handson.d.ts
+node_modules

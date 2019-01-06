@@ -7,8 +7,6 @@
 ## 使いかた
 
 ```bash
-# 過去にwasm-bindgen-cliをインストールしている方はSKIPしてください
-$ rustup target add wasm32-unknown-unknown
 $ cargo install wasm-pack
 $ wasm-pack build
 $ npm i

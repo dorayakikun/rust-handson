@@ -9,9 +9,7 @@
 ```bash
 # 過去にwasm-bindgen-cliをインストールしている方はSKIPしてください
 $ rustup target add wasm32-unknown-unknown
-$ cargo install wasm-bindgen-cli
-$ cargo build --target wasm32-unknown-unknown
-$ wasm-bindgen target/wasm32-unknown-unknown/debug/rust_handson.wasm --out-dir .
+$ wasm-pack build
 $ npm i
 $ npm run serve
 ```
